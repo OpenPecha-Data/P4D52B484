@@ -1,0 +1,264 @@
+id: P9A4DADBC
+initial_creation_type: input
+source_metadata:
+  title: Works on Mind Training
+  parent: 3. Various collections
+  source: https://sakyalibrary.com
+  bases:
+    638a:
+      title: བྱང་ཆུབ་སེམས་དཔའི་ནོར་བུའི་ཕྲེང་བ།
+      author: ཇོ་བོ་རྗེ།
+      base_file: 638a.txt
+      order: 1
+    94a9:
+      title: ཇོ་བོ་རྒྱལ་སྲིད་སྤངས་ནས་ཐར་པར་བྱོན་ཚུལ།
+      author: འབྲོམ་སྟོན་པ།
+      base_file: 94a9.txt
+      order: 2
+    ed38:
+      title: ཇོ་བོ་རྗེས་གསེར་གླིང་པ་དང་མཇལ་ཚུལ།
+      author: ''
+      base_file: ed38.txt
+      order: 3
+    23a5:
+      title: ཐེག་ཆེན་བློ་སྦྱོང་རྩ་ཚིག
+      author: ཇོ་བོ་རྗེ།
+      base_file: 23a5.txt
+      order: 4
+    a676:
+      title: ཐེག་ཆེན་བློ་སྦྱོང་གི་ཚིག་འགྲེལ།
+      author: ''
+      base_file: a676.txt
+      order: 5
+    f724:
+      title: བློ་སྦྱོང་དོན་བདུན་མའི་འགྲེལ་པ།
+      author: འཆད་ཁ་བ།/སེ་ཆིལ་བུ།
+      base_file: f724.txt
+      order: 6
+    f9f0:
+      title: བློ་སྦྱོང་མཚོན་ཆ་འཁོར་ལོ།
+      author: ''
+      base_file: f9f0.txt
+      order: 7
+    f0f4:
+      title: བློ་སྦྱོང་རྨ་བྱ་དུག་འཇོམས།
+      author: ''
+      base_file: f0f4.txt
+      order: 8
+    2d35:
+      title: བློ་སྦྱོང་གྱེར་སྒོམ་རྡོ་རྗེའི་གླུ་དབྱངས།
+      author: ''
+      base_file: 2d35.txt
+      order: 9
+    3f49:
+      title: བློ་སྦྱོང་སེམས་དཔའི་རིམ་པ་ལས་ཟློག་ཕྱོགས་གཉེན་པོའི་ཆོས།
+      author: ''
+      base_file: 3f49.txt
+      order: 10
+    82c9:
+      title: བློ་སྦྱོང་སེམས་དཔའི་རིམ་པ་ལས་རང་རྒྱུད་ངན་པ་དམའ་དབབ་པའི་ཆོས།
+      author: ''
+      base_file: 82c9.txt
+      order: 11
+    7ebd:
+      title: བློ་སྦྱོང་སེམས་དཔའི་རིམ་པ་ལས་ཟག་བཅས་དགེ་བའི་སྟོབས་བསྐྱེད་པའི་ཆོས།
+      author: ''
+      base_file: 7ebd.txt
+      order: 12
+    680f:
+      title: གསེར་གླིང་པས་ཇོ་བོ་རྗེ་ལ་གནང་བའི་མཐའ་འཁོབ་འདུལ་བའི་ཆོས།
+      author: ''
+      base_file: 680f.txt
+      order: 13
+    9bca:
+      title: ཉོན་མོངས་པ་ལམ་དུ་བླངས་པའི་ཆོས།
+      author: ''
+      base_file: 9bca.txt
+      order: 14
+    d877:
+      title: བླ་མའི་རྣལ་འབྱོར།
+      author: ''
+      base_file: d877.txt
+      order: 15
+    55c2:
+      title: སྡིག་སྦྱོང་མན་ངག
+      author: ''
+      base_file: 55c2.txt
+      order: 16
+    04a2:
+      title: ཐེག་ཆེན་ལུགས་ཀྱི་འཁོན་སྦྱོང་།
+      author: ''
+      base_file: 04a2.txt
+      order: 17
+    8dd0:
+      title: ཇོ་བོ་ལ་རྣལ་འབྱོ་མ་གཉིས་ཀྱི་སེམས་སྦྱོངས་ཤིག་ཅེས་གདམས་པ།
+      author: ''
+      base_file: 8dd0.txt
+      order: 18
+    c8f2:
+      title: ཀུ་སུ་ལུའི་ཚོགས་གསོག་བློ་སྦྱོང་།
+      author: ''
+      base_file: c8f2.txt
+      order: 19
+    fdaf:
+      title: སྐྱིད་སྡུག་ལམ་འཁྱེར་གྱི་བློ་སྦྱོང་།
+      author: ''
+      base_file: fdaf.txt
+      order: 20
+    87bb:
+      title: སམ་པ་ལོ་ཙཱ་བའི་སྙན་བརྒྱུད་ཀྱི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 87bb.txt
+      order: 21
+    bc8c:
+      title: བྱང་ཆུབ་སེམས་དཔའ་ཀུན་ཏུ་བཟང་པོའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: bc8c.txt
+      order: 22
+    bf5a:
+      title: བློ་སྦྱོང་ཐུན་བརྒྱད་མ།
+      author: ''
+      base_file: bf5a.txt
+      order: 23
+    c7e4:
+      title: ཟས་ལ་བརྟེན་པའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: c7e4.txt
+      order: 24
+    5a6b:
+      title: དབུགས་ལ་བརྟེན་པའི་བློ་སྦྱོང་དང་། ལུས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དུ་སྤྲུལ་ནས་རིགས་དྲུག་གི་སྡུག་བསྔལ་དྭང་དུ་ལེན་པའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 5a6b.txt
+      order: 25
+    db95:
+      title: ཤ་ཁྲག་ལ་བརྟེན་པའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: db95.txt
+      order: 26
+    2f54:
+      title: གཏོར་མ་བརྟེན་པའི་བློ་སྦྱོང་དང་། འབྱུང་བ་ལ་བརྟེན་པའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 2f54.txt
+      order: 27
+    46ce:
+      title: ལུས་ཡིད་བཞིན་ནོར་བུར་བསྒྱུར་བའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 46ce.txt
+      order: 28
+    b42d:
+      title: བློ་སྦྱོང་འཆི་ཁ་མའི་མན་ངག
+      author: ''
+      base_file: b42d.txt
+      order: 29
+    6f1e:
+      title: གེགས་སེལ་བློ་སྦྱོང་།
+      author: ''
+      base_file: 6f1e.txt
+      order: 30
+    6c15:
+      title: ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་མ་འོངས་པའི་འགལ་སྐྱེན་སྤོང་བ།
+      author: ''
+      base_file: 6c15.txt
+      order: 31
+    47e3:
+      title: ཇོ་བོའི་བློ་སྦྱོང་དོན་བདུན་མ།
+      author: ''
+      base_file: 47e3.txt
+      order: 32
+    f5eb:
+      title: མཆིམས་ཀྱི་བློ་སྦྱོང་།
+      author: ''
+      base_file: f5eb.txt
+      order: 33
+    96d0:
+      title: རྣམ་དག་གཙུག་ཏོར་ལ་ཇོ་བོས་གནང་བའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 96d0.txt
+      order: 34
+    2e6d:
+      title: དཔལ་ལྡན་བིརྺ་པའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 2e6d.txt
+      order: 35
+    627b:
+      title: བློ་སྦྱོང་ཚིག་རྐང་བརྒྱད་མ་ཤོ་རྒྱུས་དང་བཅས་པ།
+      author: ''
+      base_file: 627b.txt
+      order: 36
+    275a:
+      title: ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་།
+      author: ''
+      base_file: 275a.txt
+      order: 37
+    85ff:
+      title: བློ་སྦྱོང་ཚོགས་བཤད་མ།
+      author: ''
+      base_file: 85ff.txt
+      order: 38
+    53da:
+      title: རྒྱལ་བ་ཡང་དགོན་པའི་གདམས་ངག
+      author: ''
+      base_file: 53da.txt
+      order: 39
+    4bc4:
+      title: རྟེན་འབྲེལ་སྙིང་པོའི་ཁྲིད་ཡིག
+      author: ''
+      base_file: 4bc4.txt
+      order: 40
+    f903:
+      title: བློ་སྦྱོང་གསུང་བགྲོས་མའི་ཁ་སྐོང་།
+      author: ''
+      base_file: f903.txt
+      order: 41
+    7eac:
+      title: ཞེན་པ་བཞི་བྲལ་གྱི་གདམས་ངག་དང་། རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་གྱིས་མཛད་པའི་ཞེན་པ་བཞི་བྲལ།
+      author: མགོན་པོ་འཇམ་དཔལ་དབྱངས་དང་། ། རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།
+      base_file: 7eac.txt
+      order: 42
+    f658:
+      title: ས་པཎ་གྱིས་མཛད་པའི་ཞེན་པ་བཞི་བྲལ་གྱི་གདམས་ངག
+      author: ས་པཎ།
+      base_file: f658.txt
+      order: 43
+    202c:
+      title: ནུབ་པ་རིག་འཛིན་གྲགས་ཀྱིས་མཛད་པའི་ཞེན་པ་བཞི་བྲལ།
+      author: ནུབ་པ་རིག་འཛིན་གྲགས།
+      base_file: 202c.txt
+      order: 44
+    11c7:
+      title: ཞེན་པ་བཞི་བྲལ་གྱི་དམིགས་ཁྲིད།
+      author: ཀུན་མཁྱེན་གོ་རམས་པ་བསོད་ནམས་སེང་གེ
+      base_file: 11c7.txt
+      order: 45
+    da7e:
+      title: ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག
+      author: ''
+      base_file: da7e.txt
+      order: 46
+    0f3e:
+      title: བློ་སྦྱོང་ལེགས་བཤད་ཀུན་འདུས།
+      author: དཀོན་མཆོག་འབངས།
+      base_file: 0f3e.txt
+      order: 47
+    a3bb:
+      title: བྱང་ཆུབ་ཀྱི་སེམས་གཉིས་བསྒོམ་པའི་མན་ངག་བདུད་རྩིའི་ཆུ་རྒྱུན།
+      author: སྒ་རབ་འབྱམས་པ་ཀུན་དགའ་ཡེ་ཤེས།
+      base_file: a3bb.txt
+      order: 48
+    07a6:
+      title: ཐེག་པ་ཆེན་པོའི་གདམས་ངག་བློ་སྦྱོང་དོན་བདུན་མ་བཅས་བཞུགས་སོ།
+      author: ཤཱཀྱའི་དགེ་སློང་མཁྱེན་རབ་བློ་ལྡ།
+      base_file: 07a6.txt
+      order: 49
+    b6f5:
+      title: བློ་སྦྱོང་ཞེན་པ་བཞི་བྲལ་གྱི་འགྲེལ་པ།
+      author: མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེ།
+      base_file: b6f5.txt
+      order: 50
+    4a61:
+      title: བློ་སྦྱོང་དོན་བདུན་མའི་བཀའ་ཁྲིད་བཞུགས་སོ།།
+      author: མཁན་ཆེན་ཨ་པད་རིན་པོ་ཆེ།
+      base_file: 4a61.txt
+      order: 51
+created_at: '2022-04-06T18:05:20.557926'
+last_modified_at: '2022-04-06T18:05:20.557938'
